@@ -1,2 +1,2 @@
 # ML_challenge
-Challenge in Machine Learning course for classifying unlabeled data
+Challenge in Machine Learning course for classifying unlabeled data. The script uses labeled data to do supervised learning and uses the model to classify unlabeled data. Scikit-learn library is used to create a Stacking classifiers containing Quadratic discriminant analysis, Random forest classifier and Multi-layer Perceptron classifier. With this implementation, I got an accuracy of 0.7676 and came fourth in a class of 350 students. The best accuracy in the class was 0.7725.
